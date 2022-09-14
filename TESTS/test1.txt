@@ -1,0 +1,16 @@
+tableau t(5) Entier
+Variables N,i  Entier
+fonction f(i) 	
+ 	i $ 5
+	return i 
+finFonction
+Debut
+Ecrire ( N )
+Lire ( N )
+Pour ( i dans 1 : 10 )     
+Ecrire( i ) 
+finPour
+Tantque ( N > 1)
+	N $ f( i )
+finTantque 
+Fin
