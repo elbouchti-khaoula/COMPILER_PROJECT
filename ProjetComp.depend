@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1643660483 source:c:\users\nanotek\desktop\projet compilation\project_compila\lex.c
+	"lex.h"
+
+1643659677 c:\users\nanotek\desktop\projet compilation\project_compila\lex.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1643665014 source:c:\users\nanotek\desktop\projet compilation\project_compila\main.c
+	"syn.h"
+	"lex.h"
+
+1643659196 c:\users\nanotek\desktop\projet compilation\project_compila\syn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1643664215 source:c:\users\nanotek\desktop\projet compilation\project_compila\sem.c
+	"sem.h"
+	"lex.h"
+
+1643660872 c:\users\nanotek\desktop\projet compilation\project_compila\sem.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<conio.h>
+
+1643660727 source:c:\users\nanotek\desktop\projet compilation\project_compila\syn.c
+	"syn.h"
+	"lex.h"
+
